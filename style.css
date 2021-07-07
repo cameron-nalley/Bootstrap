@@ -1,0 +1,28 @@
+.fa-hand-rock,
+.fa-hand-paper,
+.fa-hand-scissors {
+  font-size: 4rem;
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+.modal-body ul li i {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.boards,
+.select {
+  display: none;
+}
+
+#playerSide,
+#computerSide {
+  height: 225px;
+}
+
+html, body {
+  height: 100%;
+}
+
+
